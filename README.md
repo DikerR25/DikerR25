@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning about IT technology<br>💬 Ask me about (if im know)
+🌱 I’m currently learning about IT technology<br>💬 Ask me anything (if I know)
 
 
 ## 🌐 Socials:
