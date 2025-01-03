@@ -1,7 +1,3 @@
-# 💫 About Me:
-🌱 I’m currently learning about IT technology<br>💬 Ask me anything (if I know)
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/563293473399111690) 
 
