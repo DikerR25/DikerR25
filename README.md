@@ -10,7 +10,7 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qpytfcwb7slfnrjpchd5dlk7k4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile">
 </p>
 <p align="center">
-    <img src="https://diker.my.id/discord-card/563293473399111690" alt="discord-profile">
+    <img src="https://diker.my.id/discord-card/427724940666732544" alt="discord-profile">
 </p>
 
 ---
