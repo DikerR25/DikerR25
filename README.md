@@ -7,7 +7,9 @@
 ---
 
 <p align="center">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qpytfcwb7slfnrjpchd5dlk7k4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31qpytfcwb7slfnrjpchd5dlk7k4&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qpytfcwb7slfnrjpchd5dlk7k4&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
+  </a>
 </p>
 <p align="center">
     <img src="https://diker.my.id/api/discord-card/563293473399111690" alt="discord-profile">
